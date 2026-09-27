@@ -18,7 +18,8 @@ This project analyses McDonald's Corporation through a fundamental equity resear
 
 ## Files
 
-- [Equity Research Report PDF](report/William_Challma_McDonalds_Equity_Research_Report.pdf)
+- [Equity Research Report PDF](report/MCD_Equity_Research_Report_Final.pdf)
+- [Valuation Model](model/Equity_research_report_McDonalds_Final.xlsx)
 - [Presentation File](presentation/MCD_Equity_Research_Report_Final.pptx)
 
 ## Methodology
