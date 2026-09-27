@@ -1,0 +1,42 @@
+# Sources and Methodology
+
+This project was prepared as an independent student equity research case for educational purposes only. It is not investment advice.
+
+## Main company sources
+
+- McDonald's 2025 Annual Report and Form 10-K
+- McDonald's Q2 2026 earnings release, Form 10-Q and earnings call
+- McDonald's Investor Day materials and transcript, 23 September 2026
+- McDonald's 2026 proxy statement
+- McDonald's Purpose & Impact Report 2023-24
+
+## Market and peer data
+
+- Stock Analysis
+- S&P Global Market Intelligence
+- Public market data for McDonald's and selected restaurant peers
+- Peer group: Yum! Brands, Restaurant Brands International, Domino's Pizza, Starbucks and Chipotle
+
+## Industry sources
+
+- Revenue Management Solutions
+- Black Box Intelligence
+- National Restaurant Association
+- Circana
+- Placer.ai
+- Restaurant Dive
+- Fast Casual
+
+## Methodology references
+
+- NYU Stern / Aswath Damodaran materials on bottom-up beta and valuation
+- CFA Institute materials on equity research report structure
+- Breaking Into Wall Street investment banking materials
+
+## Methodology summary
+
+The valuation combines a discounted cash flow model and peer multiple analysis. The DCF uses unlevered free cash flow, a bottom-up beta, WACC, terminal growth and sensitivity analysis. The peer valuation focuses primarily on franchise-heavy restaurant peers to better match McDonald's rent-and-royalty business model.
+
+## Data note
+
+The report is based on public information and selected market data available at the time of preparation. Raw third-party market data is not redistributed in this repository.
